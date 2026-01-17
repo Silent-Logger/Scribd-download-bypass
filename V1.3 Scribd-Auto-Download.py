@@ -12,8 +12,8 @@
 // @grant        GM_openInTab
 // @run-at       document-idle
 // @license      MIT
-// @homepageURL  https://github.com/ThanhNguyxn/scribd-downloader
-// @supportURL   https://github.com/ThanhNguyxn/scribd-downloader/issues
+// @homepageURL  https://github.com/Silent-Logger/Scribd-Auto-Download-PDF
+// @supportURL   https://github.com/Silent-Logger/Scribd-Auto-Download-PDF/issues
 // ==/UserScript==
 
 (function () {
@@ -697,3 +697,4 @@
     init();
   }
 })();
+
