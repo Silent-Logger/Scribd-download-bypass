@@ -21,7 +21,7 @@
 
   // ==================== CONFIG ====================
   const BUTTON_DELAY = 1500;
-  const ORIGINAL_REPO = 'https://github.com/ThanhNguyxn/scribd-downloader';
+  const ORIGINAL_REPO = 'https://github.com/Silent-Logger/Scribd-Auto-Download-PDF';
 
   // Tuning for lazy-load reliability
   const PAGE_LOAD_TIMEOUT_MS = 5000;   // slightly higher to reduce misses
@@ -697,4 +697,5 @@
     init();
   }
 })();
+
 
